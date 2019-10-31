@@ -13,6 +13,14 @@ function swap(array, i, j) {
       }
     }
   
+
+
+///////testing//////
+
+
+
+
+
     if (swaps > 0) {
       return bubbleSort(array);
     }
